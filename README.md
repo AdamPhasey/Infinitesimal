@@ -1,4 +1,4 @@
-# infinitesinal
+# Infinitesimal
 
 [![npm (scoped)](https://img.shields.io/npm/v/infinitesimal.svg)](https://www.npmjs.com/package/infinitesimal)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/infinitesimal.svg)](https://www.npmjs.com/package/infinitesimal)
