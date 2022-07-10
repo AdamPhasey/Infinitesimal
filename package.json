@@ -1,0 +1,14 @@
+{
+    "name": "infinitesimal",
+    "version": "2.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "infinitesimal",
+    "main": "index.js",
+    "keywords": [
+        "infinitesimal",
+        "npm",
+        "package",
+        "adamphasey"
+    ]
+}
