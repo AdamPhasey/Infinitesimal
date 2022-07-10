@@ -1,6 +1,6 @@
 {
     "name": "infinitesimal",
-    "version": "2.1.3",
+    "version": "2.1.5",
     "description": "Removes all spaces from a string",
     "license": "MIT",
     "repository": {"type": "git",

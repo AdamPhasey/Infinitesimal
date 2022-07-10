@@ -17,7 +17,7 @@ $ npm install infinitesimal
 const noSpace = require("infinitesimal");
 
 noSpace("A lot of space here!");
-//=> "Alotofspacehere!!"
+//=> "Alotofspacehere!"
 
 noSpace(82108);
 //=> Uncaught TypeError: noSpace wants a string!
