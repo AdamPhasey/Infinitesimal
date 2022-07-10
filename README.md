@@ -1,7 +1,7 @@
 # infinitesinal
 
 [![npm (scoped)](https://img.shields.io/npm/v/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/infinitesimal)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/infinitesimal)
+[![npm bundle size (minified)](https://img.shields.io/npm/v/infinitesimal.svg)](https://www.npmjs.com/package/infinitesimal)
 
 Removes all spaces from a string.
 
